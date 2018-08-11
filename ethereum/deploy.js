@@ -8,7 +8,7 @@ const compiledFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDWalletProvider(
 	'your 12 word mnemonic',
-	'infura api link';
+	'infura api link');
 
 const web3 = new Web3(provider);
 
