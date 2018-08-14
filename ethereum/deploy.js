@@ -7,8 +7,8 @@ const compiledFactory = require('./build/CampaignFactory.json');
 // Setting up Provider 
 
 const provider = new HDWalletProvider(
-	'your 12 word mnemonic',
-	'infura api link');
+	'survey hospital fun huge vehicle quarter major purpose federal dolphin water black',
+	'https://rinkeby.infura.io/c37a4573e4874debb6aeca6f570638df');
 
 const web3 = new Web3(provider);
 
