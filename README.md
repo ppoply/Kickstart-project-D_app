@@ -13,3 +13,4 @@ Specifications of the decentralised App :
 - For the Interface React.js has been used just for the sake of the developers ease. 
 - Proper measures have been taken upon handling validation errors. This project is far from complete. Changes will keep on coming in the near future.
 
+<strong> Note : This whole project is part of Udemy's "Ethereum and Solidity: The Complete Developer's Guide" course by Stephen Grider.</strong>
